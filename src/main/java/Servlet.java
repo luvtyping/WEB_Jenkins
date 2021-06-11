@@ -15,6 +15,7 @@ public class Servlet extends HttpServlet {
         writer.println("<h1>" +
                 "First Line<br>" +
                 "Second Line<br>" +
+                "Third Line<br>" +
                 "</h1>");
         writer.println("</html>");
     }
